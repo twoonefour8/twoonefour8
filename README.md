@@ -2,7 +2,7 @@
 
 - Teamlead / Python developer
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=twoonefour8&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=twoonefour8&show_icons=true&theme=dracula)
 <!--
 **twoonefour8/twoonefour8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
