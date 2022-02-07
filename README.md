@@ -1,6 +1,6 @@
 ### Hi there!
 
-- Python Developer
+- Teamlead / Python developer
 
 <!--
 **twoonefour8/twoonefour8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
